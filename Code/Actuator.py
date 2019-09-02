@@ -6,7 +6,7 @@
 *  This software is intended to convert english text into braille characters
 *  MODULE: Actuator
 *  Filename: Actuator.py
-*  Version: 1.0.0  
+*  Version: 1.0.2  
 *  Date: February 9, 2019
 *  
 *  Author: Aditya Kumar Singh
